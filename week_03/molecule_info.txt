@@ -1,0 +1,3 @@
+Molecule: Dopamine
+Image URL: https://github.com/laugmz/ppchem/blob/main/dopamine.png
+Description: Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is a neuromodulatory molecule that plays several important roles in cells. It is an organic chemical of the catecholamine and phenethylamine families. 
